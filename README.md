@@ -1,6 +1,6 @@
 **TEXT ANALYZIS AND CLASSIFICATION FOR SPEECHES IN POLISH PARLIAMENT**
 
-This project was created during my postgraduate, data science-related studies on Warsaw University of Technology. It was created to  develop the text corpus of deputies speeches in Polish parliament (Sejm), perform analysis of them and then build 3 independent NLP models for speeches classification. Based on input text, each model tries to predict the deputy party membership of a speaker. 
+This project was created during my postgraduate, data science-related studies on Warsaw University of Technology. It was created to  develop the text corpus of deputies speeches in Polish Parliament (10. term), perform analysis of them and then build 3 independent NLP models for speeches classification. Based on input text, each model tries to predict the deputy party membership of a speaker. 
 All code is written in Python.
 
 Content list: 
